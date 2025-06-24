@@ -2,7 +2,7 @@
 
 GoVista is a modern, visually rich travel and tourism website that helps users discover, plan, and book unforgettable adventures around the world. The platform is designed to be user-friendly, informative, and responsive for a seamless experience.
 
-![GoVista Screenshot](screenshot.png)
+![GoVista Screenshot](GoVisita.jpg)
 
 ## 📌 Features
 
