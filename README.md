@@ -4,13 +4,13 @@ GoVista is a modern, visually rich travel and tourism website that helps users d
 
 ![GoVista Screenshot](GoVisita.jpg)
 
-## 📌 Features
+## Features
 
 - **Hero Section with Video Background** – Immersive landing section with autoplay video and call-to-action.
 - **Booking Form** – Easy-to-use form for selecting destination, number of travelers, and travel dates.
 - **Popular Travel Packages** – Showcases international destinations with prices and reviews.
 - **Services Section** – Highlights core services (hotels, food, safety, fast travel, etc.).
-- 🖼**Gallery** – Interactive image grid for top tourist spots.
+- **Gallery** – Interactive image grid for top tourist spots.
 - **Testimonials** – Carousel slider of user reviews using Swiper.js.
 - **Contact Form** – A simple message form for user inquiries.
 - **Login Modal** – Popup login interface with email and password.
